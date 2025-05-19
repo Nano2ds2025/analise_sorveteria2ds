@@ -1,0 +1,69 @@
+ANÁLISE E PROJETO DE SISTEMAS: SISTEMAS DE SORVETERIA ONLINE
+
+INTRODUÇÃO
+
+	Uma sorveteria deseja expandir suas vendas para o ambiente online, permitindo que os clientes façam pedidos de sorvetes pelo site e escolham entre retirada no local ou entrega. Atualmente, os pedidos são feitos apenas presencialmente, o que limita a quantidade de clientes atendidos e gera filas no estabelecimento.
+
+DESCRIÇÃO DO PROBLEMA
+A sorveteria precisa de um sistema web responsivo que permita aos clientes:
+Visualizar o catálogo de sorvetes com imagens, preços e descrições
+Montar seu pedido escolhendo os sabores, tamanhos e adicionais.
+Escolher retirada na loja ou entrega (com cálculo da taxa de entrega.
+Fazer pagamento online via cartão de crédito ou pix
+Criar uma conta para salvar os pedidos anteriores e facilitar novas compras
+
+os administradores da sorveteria também precisam de funcionalidades como:
+Gerenciamento do catálogo de produtos (cadastrar, editar e excluir sorvetes)
+Controle de pedidos em tempo real, podendo atualizar status para “em preparo”, “pronto para retirada”, ou “a caminho”
+Relatórios de vendas e estatísticas de produtos mais vendidos
+IMPACTO DO PROBLEMA
+sem um sistema online, a sorveteria enfrenta desafios como:
+filas e demora no atendimento presencial
+falta de controle automatizado sobre os pedidos
+dificuldade em analisar vendas e preferências dos clientes
+perda de oportunidade de venda para concorrentes que já possuem sistemas online.
+REQUISITOS FUNCIONAIS
+
+CADASTRO E LOGIN DE CLIENTES.
+CATÁLOGO DE PRODUTOS DINÂMICOS COM IMAGENS E DESCRIÇÕES.
+CARRINHO DE COMPRAS COM OPÇÕES DE PERSONALIZAÇÃO DE SORVETES.
+O PAGAMENTO ONLINE VIA CARTÃO DE CRÉDITO OU PIX.
+ESCOLHA ENTRE RETIRADA O ENTREGA COM CÁLCULO DE TAXA.
+PAINEL ADMINISTRATIVO PARA GERENCIAR PEDIDOS E PRODUTOS
+
+      
+
+
+
+
+
+
+
+
+REQUISITOS NÃO FUNCIONAIS
+
+INTERFACE RESPONSIVA PARA DESKTOP E MOBILE.
+BANCO DE DADOS SEGURA PARA ARMAZENAR INFORMAÇÕES DE CLIENTES E PEDIDOS.
+TEMPO DE RESPOSTA RÁPIDO PARA NAVEGAÇÃO FLUIDA.
+INTEGRAÇÃO COM APIS PAGAMENTO E MAPAS PARA CÁLCULO DE ENTREGA.
+
+
+ATIVIDADE
+
+QUAIS SÃO OS PRINCIPAIS DESAFIOS ENFRENTADOS PELA SORVETERIA SEM SISTEMA ONLINE?
+R: a sorveteria enfrenta desafios como: atrasa nas vendas, falta de controle dos pedidos e etc…
+
+ QUAL DAS FUNCIONALIDADES ABAIXO NÃO É UM REQUISITO FUNCIONAL?
+
+cadastro e login de usuário
+interface responsiva para desktop mobile.
+pagamento online via cartão de crédito e pix
+ x   notificação de status do pedido
+                  3) Quais são as opções disponíveis para o cliente ao finalizar um pedido no sistema?
+		R: Controle de pedidos em tempo real, podendo atualizar status para “em preparo”, “pronto para retirada”, ou “a caminho”
+
+4) Qual VAI SER O BENEFÍCIO DO PAINEL ADMINISTRATIVO DO SISTEMA?
+R:  melhor administração do site e dos pedidos
+
+5)PORQUE A INTEGRAÇÃO COM APIS DE PAGAMENTO E MAPAS É IMPORTANTE PARA O SISTEMA?
+R: é bão
